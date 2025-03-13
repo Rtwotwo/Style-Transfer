@@ -110,7 +110,7 @@ Fast Neural Style Transfer:
 
 | Content Image 1 | Content Image 2 | Style Image |
 |----------------|-----------------|--------------|
-| ![Content Image 1](content_image/content_2.jpg) | ![Content Image 2](content_image/content_3.jpg) | ![Style Image](style_image/style_2.jpg) |
+| ![Content Image 1](content_image/content_2.jpg) | ![Content Image 2](content_image/content_3.jpg) | ![Style Image](style_image/style_6.jpg) |
 
 | Stylized 200 | Stylized 400 | Stylized 600 | Stylized 800 |
 | ------------- | ------------- | ------------- | ------------- |
